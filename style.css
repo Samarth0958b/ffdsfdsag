@@ -1,0 +1,16 @@
+#footer{
+    bottom: 0;
+    background-color:grey ;
+    position: fixed;
+    width:100%;
+    line-height:40px;
+    text-align: center;
+}
+
+#note{
+    color:black;
+}
+canvas {
+    border:5px solid white;
+     border-radius:20px;
+     }
